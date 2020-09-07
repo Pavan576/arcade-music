@@ -3,7 +3,7 @@
   "version": "0.7.0",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
-  "author": "Erit Islami <eritislami@gmail.com>",
+  "author": "Shanmukh Pavan <pavanreddy576.pr@gmail.com>",
   "private": true,
   "homepage": "https://github.com/eritislami/evobot",
   "repository": "github:eritislami/evobot",
